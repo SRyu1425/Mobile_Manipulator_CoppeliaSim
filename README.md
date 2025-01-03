@@ -5,8 +5,8 @@ The robot's motion is simulated, and the results are saved in CSV files for visu
 
 ## Python Program
 
-1. Main Features
-1. Trajectory Generation:
+### 1. Main Features
+      1. Trajectory Generation:
 ○ The TrajectoryGenerator function computes a smooth reference trajectory using quintic time scaling for the youBot's end-effector.
 ○ The trajectory includes intermediate poses for standoff, grasp, and release configurations.
 2. Feedback Control:
