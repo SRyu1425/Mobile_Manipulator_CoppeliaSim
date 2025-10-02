@@ -43,6 +43,9 @@ The robot's motion is simulated, and the results are saved in CSV files for visu
   - The error (6-vector) converges over time, ensuring accurate tracking of the trajectory.
 - Joint Limits:
   - The implementation of joint limits prevents self-collisions and singularities, allowing the robot to operate realistically.
+- Demo Video included below. More results including plots and videos can be found in the results folder.
+
+https://github.com/user-attachments/assets/338492c4-3478-49d4-98a6-19e571f00a43   
  
 ## Challenges and Insights
 
